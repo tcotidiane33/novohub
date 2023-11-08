@@ -4,6 +4,7 @@
 var config = {
     apiKey: "AIzaSyA9bykZg5YFBQJlGSIi8i_RXV7UNonfI8U",
     authDomain: "novohub.firebaseapp.com",
+    databaseURL: "https://novohub-default-rtdb.firebaseio.com/",
     projectId: "novohub",
     storageBucket: "novohub.appspot.com",
     messagingSenderId: "486940016289",
